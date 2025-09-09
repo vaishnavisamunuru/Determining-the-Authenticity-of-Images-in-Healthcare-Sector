@@ -1,0 +1,1 @@
+{"classes": ["original", "tampered"], "cnn_path": "models/cnn_state_dict.pth", "resnet_path": "models/resnet_state_dict.pth", "densenet_path": "models/densenet_state_dict.pth"}
